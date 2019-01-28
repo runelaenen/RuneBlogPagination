@@ -1,0 +1,11 @@
+{
+  "name": "runelaenen/shopware-blog-pagination",
+  "version": "0.0.2",
+  "keywords": ["shopware", "blog", "pagination"],
+  "description": "Improve pagination settings for blogs",
+  "license": "MIT",
+  "type": "shopware-plugin",
+  "extra": {
+    "installer-name": "RuneBlogPagination"
+  }
+}
