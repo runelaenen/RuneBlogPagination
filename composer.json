@@ -1,6 +1,6 @@
 {
   "name": "runelaenen/shopware-blog-pagination",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "keywords": ["shopware", "blog", "pagination"],
   "description": "Improve pagination settings for blogs",
   "license": "MIT",
