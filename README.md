@@ -6,7 +6,7 @@ Add better pagination to Blogs
 
 ### Features
 
-* 
+* Adds configuration setting for Blog pagination
 
 ## Requirements
 
